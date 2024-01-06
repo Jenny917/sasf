@@ -1,4 +1,4 @@
-// Author Maasea Build: 2023/12/15 19:46:49
+// Je
 (() => {
     (function(l) {
         function e() {}
@@ -6371,7 +6371,7 @@
     }
 
     function Fr(l) {
-        return `https://translate.google.com/translate_a/single?client=gtx&sl=auto&tl=zh-CN&hl=zh-CN&dt=at&dt=bd&dt=ex&dt=ld&dt=md&dt=qca&dt=rw&dt=rm&dt=ss&dt=t&source=bh&ssel=0&tsel=0&kc=1&tk=${Tr(l)}&q=${encodeURIComponent(l)}`
+        return `https://translate.google.com/translate_a/single?client=gtx&sl=auto&tl=en&hl=en&dt=at&dt=bd&dt=ex&dt=ld&dt=md&dt=qca&dt=rw&dt=rm&dt=ss&dt=t&source=bh&ssel=0&tsel=0&kc=1&tk=${Tr(l)}&q=${encodeURIComponent(l)}`
     }
     var G = class extends K {
             constructor(t = lr, n = "Browse") {
